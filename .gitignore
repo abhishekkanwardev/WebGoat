@@ -44,7 +44,6 @@ webgoat-lessons/**/target
 webgoat-server/mongo-data/*
 webgoat-lessons/vulnerable-components/dependency-reduced-pom.xml
 **/.sts4-cache/*
-**/.vscode/*
 **/.factorypath
 /.sonatype
 **/bin/*
@@ -57,3 +56,7 @@ TestClass.class
 /.gitconfig
 
 webgoat.gitconfig
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
